@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Важное.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45b44bbbaf8e9a0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Утром.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,7 +144,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b90d82e3abbc1227",
+  "active": "45b44bbbaf8e9a0e",
   "lastOpenFiles": [
     "Важное.md",
     "Утром.md",
