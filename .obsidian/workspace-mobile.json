@@ -8,58 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fd3ae81fc6c939cb",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "test card.canvas",
-                "viewState": {
-                  "x": 303.3932242310626,
-                  "y": -23.538847406431955,
-                  "zoom": -1.2369005395970663
-                }
-              }
-            }
-          },
-          {
-            "id": "7613b8027d693a04",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "c32c321c4505e1cc",
+            "id": "b90d82e3abbc1227",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Важное.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "7f33674486ad38e4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "b90d82e3abbc1227",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Важное.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -141,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Важное.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -151,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Важное.md"
+          }
         }
       }
     ],
@@ -169,8 +133,8 @@
   },
   "active": "b90d82e3abbc1227",
   "lastOpenFiles": [
+    "Важное.md",
     "test card.canvas",
-    "test.md",
-    "Untitled.md"
+    "test.md"
   ]
 }
