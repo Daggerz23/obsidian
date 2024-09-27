@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Исследования.md",
+                "file": "Анатомия.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Исследования.md",
+            "file": "Анатомия.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Исследования.md",
+            "file": "Анатомия.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Исследования.md"
+            "file": "Анатомия.md"
           }
         }
       }
@@ -158,9 +158,10 @@
   },
   "active": "6d6b358eb7acad94",
   "lastOpenFiles": [
+    "Исследования.md",
+    "Анатомия.md",
     "Утром.md",
     "Важное.md",
-    "Исследования.md",
     "test card.canvas",
     "test.md"
   ]
