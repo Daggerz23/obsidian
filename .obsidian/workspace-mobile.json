@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Важное.md",
+                "file": "Утром.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Исследования.md",
+            "file": "Утром.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Исследования.md",
+            "file": "Утром.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Исследования.md"
+            "file": "Утром.md"
           }
         }
       }
@@ -144,11 +143,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45b44bbbaf8e9a0e",
+  "active": "b90d82e3abbc1227",
   "lastOpenFiles": [
-    "Утром.md",
-    "Исследования.md",
     "Важное.md",
+    "Исследования.md",
+    "Утром.md",
     "test card.canvas",
     "test.md"
   ]
