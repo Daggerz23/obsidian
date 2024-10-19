@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Утром.md",
+                "file": "ОРГ.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,9 +42,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4c2311c0afe8ccae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "психология.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +121,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Английский.md",
+            "file": "ОРГ.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +138,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Английский.md",
+            "file": "ОРГ.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +150,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Английский.md"
+            "file": "ОРГ.md"
           }
         }
       }
@@ -156,13 +167,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d6b358eb7acad94",
+  "active": "b90d82e3abbc1227",
   "lastOpenFiles": [
-    "Исследования.md",
-    "Английский.md",
+    "психология.md",
     "Анатомия.md",
-    "Утром.md",
+    "Английский.md",
     "Важное.md",
+    "ОРГ.md",
+    "Утром.md",
+    "Исследования.md",
     "test card.canvas",
     "test.md"
   ]
