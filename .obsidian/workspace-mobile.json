@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "осознанность.md",
+                "file": "бв.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "осознанность"
+              "title": "бв"
             }
           }
         ],
@@ -221,6 +221,7 @@
   "active": "522506e0be6626a2",
   "lastOpenFiles": [
     "осознанность.md",
+    "бв.md",
     "ОРГ.md",
     "Важное.md",
     "Утром.md",
